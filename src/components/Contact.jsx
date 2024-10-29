@@ -55,7 +55,7 @@ const Contact = () => {
                     <div className='text-gray-600 dark:text-gray-300 flex gap-2 items-center'>
                         <MapPin className='text-primary' />
                         <p>
-                            123 Fitness Avenue <br />
+                            123 Fitness Avenue, <br />
                             Muscle City, Workout State 12345
                         </p>
                     </div>
