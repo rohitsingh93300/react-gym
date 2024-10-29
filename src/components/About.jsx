@@ -1,6 +1,6 @@
 import React from 'react'
 import AboutImg from "../assets/About.jpg"
-import {Dumbbell, Users, Target} from 'lucide-react'
+import { Dumbbell, Users, Target } from 'lucide-react'
 
 const About = () => {
   return (
